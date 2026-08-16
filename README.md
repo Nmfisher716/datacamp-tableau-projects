@@ -5,11 +5,17 @@ A collection of Tableau packaged workbooks completed by Nicholas Fisher while de
 ## Workbooks
 
 - `basic_maps NF.twbx` — foundational mapping in Tableau
-- `Custom Maps Tableau NF.twbx` — custom map techniques
+- `Custom Maps Tableau NF.twbx` — custom map techniques, including an animated museum-traffic floor map
+
+  ![Animated museum traffic map showing average hourly visitors by location](screenshots/custom-maps-museum-traffic.png)
+
 - `Graphics NF.twbx` — dashboard graphics and visual design
 - `Overlay Maps NF.twbx` — layered and overlay maps
 - `Tableau NF.twbx` — Tableau visualization exercises
-- `Tool Tip Interactive NF.twbx` — interactive tooltip techniques
+- `Movie Selection Dashboard.twbx` — an interactive movie-selection dashboard combining genre exploration, IMDb voting patterns, and a Wikipedia tooltip panel
+
+  ![Movie Selection Dashboard showing popular genres, IMDb votes, and a Wikipedia tooltip](screenshots/movie-selection-dashboard.png)
+
 - `waffle maps, sparklines, and dna charts tool tip graphics NF.twbx` — waffle maps, sparklines, DNA charts, and tooltip graphics
 
 ## Opening the files
